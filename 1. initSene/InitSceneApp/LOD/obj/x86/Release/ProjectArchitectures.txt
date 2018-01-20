@@ -1,0 +1,4 @@
+C:\Users\zonak\Desktop\HoloLibrary\LOD\InitSceneApp\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\zonak\Desktop\HoloLibrary\LOD\InitSceneApp\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\zonak\Desktop\HoloLibrary\LOD\InitSceneApp\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\zonak\Desktop\HoloLibrary\LOD\InitSceneApp\LOD\LOD.csproj;x86
