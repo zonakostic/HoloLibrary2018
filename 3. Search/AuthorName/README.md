@@ -1,1 +1,1 @@
-# Search by Author 
+# Search by Author's name
