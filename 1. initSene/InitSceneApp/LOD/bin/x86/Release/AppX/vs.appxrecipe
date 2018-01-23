@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>c63ba234-2fb8-4a34-af86-8771f3fa17cf</PackageIdentityName>
     <PackageIdentityPublisher>CN=DefaultCompany</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\zonak\Desktop\HoloLibrary\LOD\InitSceneApp\LOD\obj\x86\Release\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\zonak\Desktop\HoloLibrary2018\1. initSene\InitSceneApp\LOD\obj\x86\Release\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,7 +18,7 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\zonak\Desktop\HoloLibrary\LOD\InitSceneApp\LOD\bin\x86\Release\AppX</LayoutDir>
+    <LayoutDir>C:\Users\zonak\Desktop\HoloLibrary2018\1. initSene\InitSceneApp\LOD\bin\x86\Release\AppX</LayoutDir>
     <RegisteredManifestChecksum>FA90332A6699994A8BABD5856CBFDF4300C895625BF813E24669D700F84FF172</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>LOD_1.0.0.0_x86__pzq3xp76mxafg</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>LOD_pzq3xp76mxafg!App</RegisteredUserModeAppID>
@@ -28,16 +28,16 @@
     <JitOptimizationSuppressed>False</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\zonak\Desktop\HoloLibrary\LOD\InitSceneApp\LOD\bin\x86\Release\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\zonak\Desktop\HoloLibrary2018\1. initSene\InitSceneApp\LOD\bin\x86\Release\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-01-20T17:53:48.111</Modified>
+      <Modified>2018-01-23T16:22:14.119</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\zonak\Desktop\HoloLibrary\LOD\InitSceneApp\LOD\bin\x86\Release\LOD.exe">
+    <AppxPackagedFile Include="C:\Users\zonak\Desktop\HoloLibrary2018\1. initSene\InitSceneApp\LOD\bin\x86\Release\LOD.exe">
       <PackagePath>entrypoint\LOD.exe</PackagePath>
-      <Modified>2018-01-20T17:53:14.979</Modified>
+      <Modified>2018-01-23T16:21:47.359</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\zonak\.nuget\packages\microsoft.applicationinsights\1.0.0\lib\portable-win81+wpa81\Microsoft.ApplicationInsights.dll">
       <PackagePath>Microsoft.ApplicationInsights.dll</PackagePath>
@@ -467,7 +467,7 @@
       <PackagePath>UnityEngineProxy.dll</PackagePath>
       <Modified>2017-09-25T10:51:44.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\zonak\Desktop\HoloLibrary\LOD\InitSceneApp\LOD\Unprocessed\WinRTLegacy.dll">
+    <AppxPackagedFile Include="C:\Users\zonak\Desktop\HoloLibrary2018\1. initSene\InitSceneApp\LOD\Unprocessed\WinRTLegacy.dll">
       <PackagePath>WinRTLegacy.dll</PackagePath>
       <Modified>2017-09-25T09:17:58.000</Modified>
     </AppxPackagedFile>
@@ -499,109 +499,109 @@
       <PackagePath>WinRTBridge.winmd</PackagePath>
       <Modified>2017-09-25T10:51:36.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\zonak\Desktop\HoloLibrary\LOD\InitSceneApp\LOD\Resource.res">
+    <AppxPackagedFile Include="C:\Users\zonak\Desktop\HoloLibrary2018\1. initSene\InitSceneApp\LOD\Resource.res">
       <PackagePath>Resource.res</PackagePath>
       <Modified>2018-01-20T17:50:56.060</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\zonak\Desktop\HoloLibrary\LOD\InitSceneApp\LOD\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\zonak\Desktop\HoloLibrary2018\1. initSene\InitSceneApp\LOD\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-09-25T08:57:22.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\zonak\Desktop\HoloLibrary\LOD\InitSceneApp\LOD\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\zonak\Desktop\HoloLibrary2018\1. initSene\InitSceneApp\LOD\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-09-25T09:02:12.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\zonak\Desktop\HoloLibrary\LOD\InitSceneApp\LOD\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\zonak\Desktop\HoloLibrary2018\1. initSene\InitSceneApp\LOD\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-09-25T08:58:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\zonak\Desktop\HoloLibrary\LOD\InitSceneApp\LOD\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\zonak\Desktop\HoloLibrary2018\1. initSene\InitSceneApp\LOD\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-09-25T09:01:14.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\zonak\Desktop\HoloLibrary\LOD\InitSceneApp\LOD\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\zonak\Desktop\HoloLibrary2018\1. initSene\InitSceneApp\LOD\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-09-25T09:01:54.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\zonak\Desktop\HoloLibrary\LOD\InitSceneApp\LOD\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\zonak\Desktop\HoloLibrary2018\1. initSene\InitSceneApp\LOD\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-09-25T08:58:54.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\zonak\Desktop\HoloLibrary\LOD\InitSceneApp\LOD\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\zonak\Desktop\HoloLibrary2018\1. initSene\InitSceneApp\LOD\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2017-09-25T08:57:22.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\zonak\Desktop\HoloLibrary\LOD\InitSceneApp\LOD\PlaneFinding.dll">
+    <AppxPackagedFile Include="C:\Users\zonak\Desktop\HoloLibrary2018\1. initSene\InitSceneApp\LOD\PlaneFinding.dll">
       <PackagePath>PlaneFinding.dll</PackagePath>
       <Modified>2017-10-03T00:53:34.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\zonak\Desktop\HoloLibrary\LOD\InitSceneApp\LOD\GpuTiming.dll">
+    <AppxPackagedFile Include="C:\Users\zonak\Desktop\HoloLibrary2018\1. initSene\InitSceneApp\LOD\GpuTiming.dll">
       <PackagePath>GpuTiming.dll</PackagePath>
       <Modified>2017-10-17T03:40:22.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\zonak\Desktop\HoloLibrary\LOD\InitSceneApp\LOD\SharingClient.dll">
+    <AppxPackagedFile Include="C:\Users\zonak\Desktop\HoloLibrary2018\1. initSene\InitSceneApp\LOD\SharingClient.dll">
       <PackagePath>SharingClient.dll</PackagePath>
       <Modified>2017-10-03T00:53:33.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\zonak\Desktop\HoloLibrary\LOD\InitSceneApp\LOD\SpatialUnderstanding.dll">
+    <AppxPackagedFile Include="C:\Users\zonak\Desktop\HoloLibrary2018\1. initSene\InitSceneApp\LOD\SpatialUnderstanding.dll">
       <PackagePath>SpatialUnderstanding.dll</PackagePath>
       <Modified>2017-10-03T00:53:34.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\zonak\Desktop\HoloLibrary\LOD\InitSceneApp\LOD\VuforiaWrapper.dll">
+    <AppxPackagedFile Include="C:\Users\zonak\Desktop\HoloLibrary2018\1. initSene\InitSceneApp\LOD\VuforiaWrapper.dll">
       <PackagePath>VuforiaWrapper.dll</PackagePath>
       <Modified>2017-02-07T12:28:06.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\zonak\Desktop\HoloLibrary\LOD\InitSceneApp\LOD\Data\globalgamemanagers">
+    <AppxPackagedFile Include="C:\Users\zonak\Desktop\HoloLibrary2018\1. initSene\InitSceneApp\LOD\Data\globalgamemanagers">
       <PackagePath>Data\globalgamemanagers</PackagePath>
       <Modified>2018-01-20T17:49:33.361</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\zonak\Desktop\HoloLibrary\LOD\InitSceneApp\LOD\Data\level0">
+    <AppxPackagedFile Include="C:\Users\zonak\Desktop\HoloLibrary2018\1. initSene\InitSceneApp\LOD\Data\level0">
       <PackagePath>Data\level0</PackagePath>
       <Modified>2018-01-20T17:49:30.313</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\zonak\Desktop\HoloLibrary\LOD\InitSceneApp\LOD\Data\Resources\unity default resources">
+    <AppxPackagedFile Include="C:\Users\zonak\Desktop\HoloLibrary2018\1. initSene\InitSceneApp\LOD\Data\Resources\unity default resources">
       <PackagePath>Data\Resources\unity default resources</PackagePath>
       <Modified>2017-09-25T09:03:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\zonak\Desktop\HoloLibrary\LOD\InitSceneApp\LOD\Data\Resources\unity_builtin_extra">
+    <AppxPackagedFile Include="C:\Users\zonak\Desktop\HoloLibrary2018\1. initSene\InitSceneApp\LOD\Data\Resources\unity_builtin_extra">
       <PackagePath>Data\Resources\unity_builtin_extra</PackagePath>
       <Modified>2018-01-20T17:50:02.027</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\zonak\Desktop\HoloLibrary\LOD\InitSceneApp\LOD\Data\globalgamemanagers.assets">
+    <AppxPackagedFile Include="C:\Users\zonak\Desktop\HoloLibrary2018\1. initSene\InitSceneApp\LOD\Data\globalgamemanagers.assets">
       <PackagePath>Data\globalgamemanagers.assets</PackagePath>
       <Modified>2018-01-20T17:49:33.712</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\zonak\Desktop\HoloLibrary\LOD\InitSceneApp\LOD\Data\resources.assets">
+    <AppxPackagedFile Include="C:\Users\zonak\Desktop\HoloLibrary2018\1. initSene\InitSceneApp\LOD\Data\resources.assets">
       <PackagePath>Data\resources.assets</PackagePath>
       <Modified>2018-01-20T17:49:45.806</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\zonak\Desktop\HoloLibrary\LOD\InitSceneApp\LOD\Data\sharedassets0.assets">
+    <AppxPackagedFile Include="C:\Users\zonak\Desktop\HoloLibrary2018\1. initSene\InitSceneApp\LOD\Data\sharedassets0.assets">
       <PackagePath>Data\sharedassets0.assets</PackagePath>
       <Modified>2018-01-20T17:49:47.506</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\zonak\Desktop\HoloLibrary\LOD\InitSceneApp\LOD\Data\level0.resS">
+    <AppxPackagedFile Include="C:\Users\zonak\Desktop\HoloLibrary2018\1. initSene\InitSceneApp\LOD\Data\level0.resS">
       <PackagePath>Data\level0.resS</PackagePath>
       <Modified>2018-01-20T17:49:30.298</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\zonak\Desktop\HoloLibrary\LOD\InitSceneApp\LOD\Data\resources.assets.resS">
+    <AppxPackagedFile Include="C:\Users\zonak\Desktop\HoloLibrary2018\1. initSene\InitSceneApp\LOD\Data\resources.assets.resS">
       <PackagePath>Data\resources.assets.resS</PackagePath>
       <Modified>2018-01-20T17:49:45.799</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\zonak\Desktop\HoloLibrary\LOD\InitSceneApp\LOD\Data\sharedassets0.assets.resS">
+    <AppxPackagedFile Include="C:\Users\zonak\Desktop\HoloLibrary2018\1. initSene\InitSceneApp\LOD\Data\sharedassets0.assets.resS">
       <PackagePath>Data\sharedassets0.assets.resS</PackagePath>
       <Modified>2018-01-20T17:49:47.498</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\zonak\Desktop\HoloLibrary\LOD\InitSceneApp\LOD\Data\managedAssemblies.txt">
+    <AppxPackagedFile Include="C:\Users\zonak\Desktop\HoloLibrary2018\1. initSene\InitSceneApp\LOD\Data\managedAssemblies.txt">
       <PackagePath>Data\managedAssemblies.txt</PackagePath>
       <Modified>2018-01-20T17:50:55.833</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\zonak\Desktop\HoloLibrary\LOD\InitSceneApp\LOD\Data\nativePlugins.txt">
+    <AppxPackagedFile Include="C:\Users\zonak\Desktop\HoloLibrary2018\1. initSene\InitSceneApp\LOD\Data\nativePlugins.txt">
       <PackagePath>Data\nativePlugins.txt</PackagePath>
       <Modified>2018-01-20T17:50:55.843</Modified>
     </AppxPackagedFile>
@@ -609,54 +609,54 @@
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
       <Modified>2017-09-28T21:28:16.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\zonak\Desktop\HoloLibrary\LOD\InitSceneApp\LOD\bin\x86\Release\resources.pri">
+    <AppxPackagedFile Include="C:\Users\zonak\Desktop\HoloLibrary2018\1. initSene\InitSceneApp\LOD\bin\x86\Release\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-01-20T17:53:21.304</Modified>
+      <Modified>2018-01-23T16:21:52.615</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\zonak\Desktop\HoloLibrary\LOD\InitSceneApp\LOD\UnityEngine.dll">
+    <AppxPackagedFile Include="C:\Users\zonak\Desktop\HoloLibrary2018\1. initSene\InitSceneApp\LOD\UnityEngine.dll">
       <PackagePath>UnityEngine.dll</PackagePath>
-      <Modified>2018-01-20T17:53:39.011</Modified>
+      <Modified>2018-01-23T16:22:10.871</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\zonak\Desktop\HoloLibrary\LOD\InitSceneApp\LOD\Newtonsoft.Json.dll">
+    <AppxPackagedFile Include="C:\Users\zonak\Desktop\HoloLibrary2018\1. initSene\InitSceneApp\LOD\Newtonsoft.Json.dll">
       <PackagePath>Newtonsoft.Json.dll</PackagePath>
-      <Modified>2018-01-20T17:53:39.719</Modified>
+      <Modified>2018-01-23T16:22:11.628</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\zonak\Desktop\HoloLibrary\LOD\InitSceneApp\LOD\UnityEngine.Analytics.dll">
+    <AppxPackagedFile Include="C:\Users\zonak\Desktop\HoloLibrary2018\1. initSene\InitSceneApp\LOD\UnityEngine.Analytics.dll">
       <PackagePath>UnityEngine.Analytics.dll</PackagePath>
-      <Modified>2018-01-20T17:53:39.762</Modified>
+      <Modified>2018-01-23T16:22:11.708</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\zonak\Desktop\HoloLibrary\LOD\InitSceneApp\LOD\nunit.framework.dll">
+    <AppxPackagedFile Include="C:\Users\zonak\Desktop\HoloLibrary2018\1. initSene\InitSceneApp\LOD\nunit.framework.dll">
       <PackagePath>nunit.framework.dll</PackagePath>
-      <Modified>2018-01-20T17:53:39.888</Modified>
+      <Modified>2018-01-23T16:22:11.895</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\zonak\Desktop\HoloLibrary\LOD\InitSceneApp\LOD\UnityEngine.UI.dll">
+    <AppxPackagedFile Include="C:\Users\zonak\Desktop\HoloLibrary2018\1. initSene\InitSceneApp\LOD\UnityEngine.UI.dll">
       <PackagePath>UnityEngine.UI.dll</PackagePath>
-      <Modified>2018-01-20T17:53:40.112</Modified>
+      <Modified>2018-01-23T16:22:12.114</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\zonak\Desktop\HoloLibrary\LOD\InitSceneApp\LOD\UnityEngine.HoloLens.dll">
+    <AppxPackagedFile Include="C:\Users\zonak\Desktop\HoloLibrary2018\1. initSene\InitSceneApp\LOD\UnityEngine.HoloLens.dll">
       <PackagePath>UnityEngine.HoloLens.dll</PackagePath>
-      <Modified>2018-01-20T17:53:40.180</Modified>
+      <Modified>2018-01-23T16:22:12.222</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\zonak\Desktop\HoloLibrary\LOD\InitSceneApp\LOD\UnityEngine.Networking.dll">
+    <AppxPackagedFile Include="C:\Users\zonak\Desktop\HoloLibrary2018\1. initSene\InitSceneApp\LOD\UnityEngine.Networking.dll">
       <PackagePath>UnityEngine.Networking.dll</PackagePath>
-      <Modified>2018-01-20T17:53:40.342</Modified>
+      <Modified>2018-01-23T16:22:12.441</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\zonak\Desktop\HoloLibrary\LOD\InitSceneApp\LOD\UnityEngine.VR.dll">
+    <AppxPackagedFile Include="C:\Users\zonak\Desktop\HoloLibrary2018\1. initSene\InitSceneApp\LOD\UnityEngine.VR.dll">
       <PackagePath>UnityEngine.VR.dll</PackagePath>
-      <Modified>2018-01-20T17:53:40.397</Modified>
+      <Modified>2018-01-23T16:22:12.489</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\zonak\Desktop\HoloLibrary\LOD\InitSceneApp\LOD\Assembly-CSharp.dll">
+    <AppxPackagedFile Include="C:\Users\zonak\Desktop\HoloLibrary2018\1. initSene\InitSceneApp\LOD\Assembly-CSharp.dll">
       <PackagePath>Assembly-CSharp.dll</PackagePath>
-      <Modified>2018-01-20T17:53:37.961</Modified>
+      <Modified>2018-01-23T16:22:09.994</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\zonak\Desktop\HoloLibrary\LOD\InitSceneApp\LOD\Assembly-CSharp-firstpass.dll">
+    <AppxPackagedFile Include="C:\Users\zonak\Desktop\HoloLibrary2018\1. initSene\InitSceneApp\LOD\Assembly-CSharp-firstpass.dll">
       <PackagePath>Assembly-CSharp-firstpass.dll</PackagePath>
-      <Modified>2018-01-20T17:53:38.115</Modified>
+      <Modified>2018-01-23T16:22:10.090</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\zonak\Desktop\HoloLibrary\LOD\InitSceneApp\LOD\bin\x86\Release\Core\LOD.exe">
+    <AppxPackagedFile Include="C:\Users\zonak\Desktop\HoloLibrary2018\1. initSene\InitSceneApp\LOD\bin\x86\Release\Core\LOD.exe">
       <PackagePath>LOD.exe</PackagePath>
-      <Modified>2018-01-20T17:53:48.093</Modified>
+      <Modified>2018-01-23T16:22:14.084</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

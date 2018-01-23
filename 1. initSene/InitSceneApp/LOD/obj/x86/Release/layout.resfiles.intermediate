@@ -18,9 +18,11 @@ Data\Resources\unity_builtin_extra
 Data\sharedassets0.assets
 Data\sharedassets0.assets.resS
 GpuTiming.dll
+GpuTiming.pdb
 PlaneFinding.dll
 Properties\Default.rd.xml
 Resource.res
 SharingClient.dll
 SpatialUnderstanding.dll
+SpatialUnderstanding.pdb
 VuforiaWrapper.dll

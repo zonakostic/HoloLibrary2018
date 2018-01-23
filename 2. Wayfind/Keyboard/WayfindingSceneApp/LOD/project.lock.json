@@ -15870,13 +15870,13 @@
     },
     "Assembly-CSharp/1.0.0": {
       "type": "project",
-      "path": "../GeneratedProjects/UWP/Assembly-CSharp/project.json",
-      "msbuildProject": "../GeneratedProjects/UWP/Assembly-CSharp/Assembly-CSharp.csproj"
+      "path": "../../../../../HoloLibrary/LOD/WayfindingSceneApp/GeneratedProjects/UWP/Assembly-CSharp/project.json",
+      "msbuildProject": "../../../../../HoloLibrary/LOD/WayfindingSceneApp/GeneratedProjects/UWP/Assembly-CSharp/Assembly-CSharp.csproj"
     },
     "Assembly-CSharp-firstpass/1.0.0": {
       "type": "project",
-      "path": "../GeneratedProjects/UWP/Assembly-CSharp-firstpass/project.json",
-      "msbuildProject": "../GeneratedProjects/UWP/Assembly-CSharp-firstpass/Assembly-CSharp-firstpass.csproj"
+      "path": "../../../../../HoloLibrary/LOD/WayfindingSceneApp/GeneratedProjects/UWP/Assembly-CSharp-firstpass/project.json",
+      "msbuildProject": "../../../../../HoloLibrary/LOD/WayfindingSceneApp/GeneratedProjects/UWP/Assembly-CSharp-firstpass/Assembly-CSharp-firstpass.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -15893,12 +15893,12 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "C:\\Users\\zonak\\Desktop\\HoloLibrary\\LOD\\WayfindingSceneApp\\LOD\\LOD.csproj",
+      "projectUniqueName": "C:\\Users\\zonak\\Desktop\\HoloLibrary2018\\2. Wayfind\\Keyboard\\WayfindingSceneApp\\LOD\\LOD.csproj",
       "projectName": "LOD",
-      "projectPath": "C:\\Users\\zonak\\Desktop\\HoloLibrary\\LOD\\WayfindingSceneApp\\LOD\\LOD.csproj",
-      "projectJsonPath": "C:\\Users\\zonak\\Desktop\\HoloLibrary\\LOD\\WayfindingSceneApp\\LOD\\project.json",
+      "projectPath": "C:\\Users\\zonak\\Desktop\\HoloLibrary2018\\2. Wayfind\\Keyboard\\WayfindingSceneApp\\LOD\\LOD.csproj",
+      "projectJsonPath": "C:\\Users\\zonak\\Desktop\\HoloLibrary2018\\2. Wayfind\\Keyboard\\WayfindingSceneApp\\LOD\\project.json",
       "packagesPath": "C:\\Users\\zonak\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zonak\\Desktop\\HoloLibrary\\LOD\\WayfindingSceneApp\\LOD\\obj\\",
+      "outputPath": "C:\\Users\\zonak\\Desktop\\HoloLibrary2018\\2. Wayfind\\Keyboard\\WayfindingSceneApp\\LOD\\obj\\",
       "projectStyle": "ProjectJson",
       "configFilePaths": [
         "C:\\Users\\zonak\\AppData\\Roaming\\NuGet\\NuGet.Config",
